@@ -1,0 +1,2 @@
+https://git-scm.com/downloads
+Link do terminal GitBash que auxilia no uso do git.
